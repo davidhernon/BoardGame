@@ -49,10 +49,18 @@
      <Compile Include="Assets\BoardGenerator.cs" />
      <Compile Include="Assets\GenMesh.cs" />
      <Compile Include="Assets\Hex.cs" />
+     <Compile Include="Assets\MouseRts.cs" />
      <Compile Include="Assets\PolygonGenerator.cs" />
      <Compile Include="Assets\RaycastExample.cs" />
      <Compile Include="Assets\Sources\LightningBolt.cs" />
+     <Compile Include="Assets\TerrainFunctions.cs" />
      <Compile Include="Assets\World2.cs" />
+     <Compile Include="Assets\World3.cs" />
+     <Compile Include="Assets\World4.cs" />
+     <Compile Include="Assets\World5.cs" />
+     <None Include="Assets\Shader2.shader" />
+     <None Include="Assets\Vertex Colored.shader" />
+     <None Include="Assets\SimpleShader.shader" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass-vs.csproj">

@@ -1,13 +1,100 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/World2.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TerrainFunctions.cs">
     <Files>
-      <File FileName="Assets/World2.cs" Line="130" Column="3" />
-      <File FileName="Assets/Hex.cs" Line="1" Column="1" />
+      <File FileName="Assets/World3.cs" Line="1" Column="1" />
+      <File FileName="Assets/TerrainFunctions.cs" Line="15" Column="48" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="15" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="30" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="32" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="33" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="36" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="39" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="40" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="42" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="43" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="45" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="46" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="49" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="50" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="54" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="60" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="62" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="64" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="65" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="68" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="69" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="72" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="73" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="74" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="80" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="81" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="84" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="88" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="93" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="92" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="100" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="110" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="114" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="118" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="123" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="130" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="133" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="137" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="142" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="141" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="149" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="153" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="157" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="162" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="161" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="171" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="173" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="174" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="177" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="180" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="183" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="184" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="189" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="190" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="193" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="196" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="199" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="200" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="205" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="206" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="209" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="212" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="215" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="216" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="221" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="222" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="232" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="233" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="236" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="239" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="242" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="243" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="248" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="249" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="252" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="255" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="258" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="259" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="265" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="264" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="267" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="268" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="271" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="274" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="275" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="287" />
+      <Breakpoint file="/Users/davidhernon/CivClone/Assets/TerrainFunctions.cs" line="288" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

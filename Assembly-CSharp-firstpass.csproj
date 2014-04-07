@@ -48,6 +48,9 @@
   <ItemGroup>
      <Compile Include="Assets\Plugins\MeshExtrusion.cs" />
      <Compile Include="Assets\Plugins\Perlin.cs" />
+     <None Include="Assets\Shader2.shader" />
+     <None Include="Assets\Vertex Colored.shader" />
+     <None Include="Assets\SimpleShader.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

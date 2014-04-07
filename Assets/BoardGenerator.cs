@@ -21,8 +21,8 @@ public class BoardGenerator : MonoBehaviour {
 		tUnit = 0.25f;
 		Vector2 texture = new Vector2 (0,0);
 	
-		num_rows = 92;
-		ult_col = 128;
+		num_rows = 10;
+		ult_col = num_rows;
 		scale = 1;
 		map = new double[(4*num_rows) + 10,(3*ult_col)+10];
 
